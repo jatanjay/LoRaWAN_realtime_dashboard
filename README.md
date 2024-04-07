@@ -9,4 +9,4 @@
 **Note:** This is a small snippet of the actual project, for demonstrational purposes only.
 
 [repo](https://github.com/jatanjay/loradashboard) \
-[home](https://jatanjay.github.io/jatanjay/projects/)
+[home](https://jatanjay.github.io/projects/)
