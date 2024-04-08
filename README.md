@@ -8,7 +8,7 @@
 
 
 ## Dashboard Sample:
-![Dashboard Image](/turn_dashboard.png)
+![Dashboard Image](/td.png)
 
 **Note:** This is a small snippet of the actual project, for demonstrational purposes only.
 
