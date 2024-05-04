@@ -3,7 +3,7 @@
 ![Project Image](/TurnDashboard.jpg)
 
 ## Technology Stack:
-- AWS Cloud (IoT/LoRaWAN Core, DynamoDB/Streams, API Gateway, Amplify, Cognito & Lambda)
+- AWS Cloud (IoT/Sidewalk, DynamoDB/Streams, API Gateway, Amplify, Cognito & Lambda)
 - HTML/CSS/JS & ReactJS (Application Dev & AWS SDK)
 
 
